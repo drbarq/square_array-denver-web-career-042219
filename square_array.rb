@@ -3,5 +3,5 @@ def square_array(array)
   array.each do |number|
     Math.sqrt(number)
     binder.pry
-  end 
+  end
 end
